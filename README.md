@@ -70,7 +70,7 @@ To connect uLCD-32PTU-AR display to arduino do the following:
   title="Visi-Genie User Interface"
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/Workshop4-UI.jpg?raw=true" 
   alt="workshop 4 visi genie ui"
-  width="350"
+  width="300"
 />
  
 Using:
