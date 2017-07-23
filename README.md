@@ -218,6 +218,7 @@ void myGenieEventHandler(void) {
 ```
 
 1. Connect the 4D Arduino Adaptor Shield to the uLDC screen
-Note: In order to properly download the code into the Arduino the uLCD Screen has to be disconnected because it uses the same pins to communicate to the Arduino via Serial and it interferes with the code being uploaded to the ATMEGA.
+
+**Note: In order to properly download the code into the Arduino the uLCD Screen has to be disconnected because it uses the same pins to communicate to the Arduino via Serial and it interferes with the code being uploaded to the ATMEGA.**
 
 11. You should the the value of the Sliders shown in the screen’s gauges and the LEDs should turn ON and OFF after toggling the Rocker switches in the touch screen, also the Light Sensor displays its value in one of the Gauges
