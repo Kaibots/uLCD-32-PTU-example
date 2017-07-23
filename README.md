@@ -17,32 +17,42 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 <img 
   title="4D Touch Screen connected to Arduino via Serial" 
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true" 
-  alt="4D Systems Touch Screen with Serial cable" />
+  alt="4D Systems Touch Screen with Serial cable" 
+  width="350"
+/>
 
 1. Connect the other end of the cable to the right side of the 4D Arduino Adaptor Shield
 
 <img 
   title="Arduino with shield and Serial 6 pin cable" 
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/arduino_4d_shield.jpeg?raw=true" 
-  alt="arduino with 4d shield and serial 6 pin cable" />
+  alt="arduino with 4d shield and serial 6 pin cable" 
+  width="350"
+/>
 
 1. We will not be using the Pin 2 of the Danger Shield since that’s used as a Reset Pin for the touch screen
 
 <img 
   title="Danger Shield Back with unused pin 2" 
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield_back.jpeg?raw=true" 
-  alt="Danger Shield back side" />
+  alt="Danger Shield back side" 
+  width="350"
+/>
 
 1. Connect the Danger shield on top of the Stack
 
 <img 
   title="Danger shield"
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield.jpeg?raw=true"
-  alt="Danger shield" />
+  alt="Danger shield" 
+  width="350"
+/>
 <img
   title="Danger shield stack"
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/shields_stack.jpeg?raw=true"
-  alt="Danger shield and 4d stack" />
+  alt="Danger shield and 4d stack" 
+  width="350"
+/>
 
 1. Download Workshop 4 from [this page](http://www.4dsystems.com.au/product/4D_Workshop_4_IDE/)
 
@@ -59,7 +69,9 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 <img 
   title="Visi-Genie User Interface"
   src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/Workshop4-UI.jpg?raw=true" 
-  alt="workshop 4 visi genie ui" />
+  alt="workshop 4 visi genie ui"
+  width="350"
+/>
  
 Using:
 * Gauges - Gauge
