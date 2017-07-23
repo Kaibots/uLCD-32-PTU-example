@@ -26,6 +26,7 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Connect the Danger shield on top of the Stack
 
+![Danger shield](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield.jpeg?raw=true "Danger shield")
 ![Danger shield stack](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/shields_stack.jpeg?raw=true "Danger shield and 4d stack")
 
 1. Download Workshop 4 from [this page](http://www.4dsystems.com.au/product/4D_Workshop_4_IDE/)
@@ -38,7 +39,9 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Select the Visi-Genie Environment 
 
-1. Create an interface like this one in ViSi-Genie
+1. Create this interface in ViSi-Genie
+
+![Visi-Genie User Interface](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/Workshop4-UI.jpg?raw=true "workshop 4 visi genie ui")
  
 Using:
 * Gauges - Gauge
@@ -49,6 +52,8 @@ Using:
 
 
 1. After all this is setup, connect the touch screen to the PC using an USB to USB mini cable and the uUSB-PA5 bridge to your computer.
+
+
 
 1. Connect the SD Card adapter and SD Card to your computer
 
