@@ -14,20 +14,35 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Connect 6 pin cable to touch screen back side as seen in the picture
 
-![4D Touch Screen connected to Arduino via Serial](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true "4D Systems Touch Screen with Serial cable")
+<img 
+  title="4D Touch Screen connected to Arduino via Serial" 
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true" 
+  alt="4D Systems Touch Screen with Serial cable" />
 
 1. Connect the other end of the cable to the right side of the 4D Arduino Adaptor Shield
 
-![Arduino with shield and Serial 6 pin cable](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/arduino_4d_shield.jpeg?raw=true "arduino with 4d shield and serial 6 pin cable")
+<img 
+  title="Arduino with shield and Serial 6 pin cable" 
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/arduino_4d_shield.jpeg?raw=true" 
+  alt="arduino with 4d shield and serial 6 pin cable" />
 
 1. We will not be using the Pin 2 of the Danger Shield since that’s used as a Reset Pin for the touch screen
 
-![Danger Shield Back with unused pin 2](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield_back.jpeg?raw=true "Danger Shield back side")
+<img 
+  title="Danger Shield Back with unused pin 2" 
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield_back.jpeg?raw=true" 
+  alt="Danger Shield back side" />
 
 1. Connect the Danger shield on top of the Stack
 
-![Danger shield](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield.jpeg?raw=true "Danger shield")
-![Danger shield stack](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/shields_stack.jpeg?raw=true "Danger shield and 4d stack")
+<img 
+  title="Danger shield"
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield.jpeg?raw=true"
+  alt="Danger shield" />
+<img
+  title="Danger shield stack"
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/shields_stack.jpeg?raw=true"
+  alt="Danger shield and 4d stack" />
 
 1. Download Workshop 4 from [this page](http://www.4dsystems.com.au/product/4D_Workshop_4_IDE/)
 
@@ -41,7 +56,10 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Create this interface in ViSi-Genie
 
-![Visi-Genie User Interface](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/Workshop4-UI.jpg?raw=true "workshop 4 visi genie ui")
+<img 
+  title="Visi-Genie User Interface"
+  src="https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/Workshop4-UI.jpg?raw=true" 
+  alt="workshop 4 visi genie ui" />
  
 Using:
 * Gauges - Gauge
