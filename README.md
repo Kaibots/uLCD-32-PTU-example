@@ -18,16 +18,22 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Connect the other end of the cable to the right side of the 4D Arduino Adaptor Shield
 
-![4D Touch Screen connected to Arduino via Serial](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true "4D Systems Touch Screen with Serial cable")
+![Arduino with shield and Serial 6 pin cable](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true "arduino with 4d shield and serial 6 pin cable")
 
 1. We will not be using the Pin 2 of the Danger Shield since that’s used as a Reset Pin for the touch screen
 
+![Danger Shield Back with unused pin 2](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/danger_shield_back.jpeg?raw=true "Danger Shield back side")
+
 1. Connect the Danger shield on top of the Stack
+
+![Danger shield stack](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/shields_stack.jpeg?raw=true "Danger shield and 4d stack")
 
 1. Download Workshop 4 from [this page](http://www.4dsystems.com.au/product/4D_Workshop_4_IDE/)
 
 1. Open Workshop 4
+
 1. Select New..
+
 1. Find uLCD-32PTU WITHOUT the “-AR” at the end since picking the screen with -AR will not allow you to use the ViSi-Genie interface we used.
 
 1. Select the Visi-Genie Environment 
