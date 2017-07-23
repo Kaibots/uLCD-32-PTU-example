@@ -61,7 +61,7 @@ Using:
 
 1 .Connect the Arduino to your PC and load this code into it
 
-```
+```Arduino
 #include <genieArduino.h>
 #include <stdio.h>
 #include <stdint.h>
