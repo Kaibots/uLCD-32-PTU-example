@@ -14,7 +14,11 @@ To connect uLCD-32PTU-AR display to arduino do the following:
 
 1. Connect 6 pin cable to touch screen back side as seen in the picture
 
+![4D Touch Screen connected to Arduino via Serial](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true "4D Systems Touch Screen with Serial cable")
+
 1. Connect the other end of the cable to the right side of the 4D Arduino Adaptor Shield
+
+![4D Touch Screen connected to Arduino via Serial](https://github.com/Kaibots/uLCD-32-PTU-example/blob/master/images/uLCD-32PTU-AR%20Screen%20with%20cable.jpeg?raw=true "4D Systems Touch Screen with Serial cable")
 
 1. We will not be using the Pin 2 of the Danger Shield since that’s used as a Reset Pin for the touch screen
 
